@@ -90,7 +90,7 @@ cp examples/tcp/tcp-bulk-send.cc scratch/my-projects/test2/my-bulk.cc
 
 ## Plotting
 
-After exiting the container:
+After exiting the container (can work inside too, if you have the required python libraries installed):
 
 ```bash
 python plot_cwnd.py
